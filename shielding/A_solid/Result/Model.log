@@ -1,0 +1,150 @@
+2026-11-15 04:51:01   According to the selected features the <Time Domain Solver (HEX)> will be
+                      started.
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:51:02   
+                      Solver started at: 2026-11-15 04:51:02 +0530
+
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2026.4 Release from 2026-04-14 (change 1669599)
+
+2026-11-15 04:51:02   
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:51:02   
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:51:02   ======================================================================
+                      Solver uses float precision.
+                      ======================================================================
+
+
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:51:02   ======================================================================
+                       Plane wave stimulation
+                      ======================================================================
+
+
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:51:02   Units settings: 
+
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:51:02   The dispersive material update [Automatic] will be performed using the "Standard" update schema
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:52:16   Mesh statistics:
+
+                         Hexahedral mesh type: Perfect Boundary Approximation (PBA)
+                            Version: default
+
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 2
+                            Number of calculation domains used: 2
+
+                         Used point accuracy enhancement value: 71.00%.
+                         Acceleration mode: CPU
+                         PBA fill limit: 99.00% (inverse)
+
+2026-11-15 04:52:19   INFORMATION: Plane wave signal excitation has been computed with 882 coefficients and corresponding time sample 
+                      4.48455e-12 [s]
+
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:52:19   Boundary conditions: 
+
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+
+                        Xmin: expanded open, 4 Layer, depth 49.6173 mm
+                        Xmax: expanded open, 4 Layer, depth 49.6173 mm
+
+                        Ymin: expanded open, 4 Layer, depth 49.6173 mm
+                        Ymax: expanded open, 4 Layer, depth 49.6173 mm
+
+                        Zmin: expanded open, 4 Layer, depth 49.6173 mm
+                        Zmax: expanded open, 4 Layer, depth 49.6173 mm
+
+                        PML-Type: Convolution PML
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:52:19   Frequency settings: 
+
+                        Fmin:         0.2
+                        Fmax:         2
+                        Nfsteps:      1001
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:52:19   Field update statistics:
+
+                        Number of components in total: 	456450
+
+                      Subcycling state:      			Automatically deactivated
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:52:29   
+                      --------------------------------------------------------------------------------
+2026-11-15 04:52:29   Steady state energy criterion met, solver finished successfully.
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:52:29   Frequency domain results normalized to default signal.
+
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:52:29   
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (GB)         Free physical memory (GB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        CAD preparation     0.016                         0.757        0.757        
+                        Matrices calc.      0.057                         0.756        0.678        
+                        Solver run total    0.070                         0.793        0.683        
+                        ----------------------------------------------------------------------------
+
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+
+                        Hardware:
+                           Computer name:                 	DESKTOP-9MO0M3L 
+
+                           Number of CPU threads:               2
+                           Hardware info:                  	Hardware Accelerator Device not activated
+
+                        Number of mesh cells:             	73416
+                        Excitation duration:              	3.94949861e+000 ns 
+                        Calculation time for excitation:  	5 	s
+                        Number of calculated pulse widths:	1.25924 
+                        Steady state accuracy limit:      	-40	dB 
+                        Simulated number of time steps:   	1110 
+                        Maximum number of time steps:     	17613 
+                        Time step width:
+                           without subcycles:             	4.484552357e-003 ns
+                           used:                          	4.484552357e-003 ns
+
+                        CAD preparation time:             	1      	s
+                        Matrix calculation time:          	72 	s
+                        Solver setup time:                	5 	s
+                        Solver loop time:                 	6 	s
+                        Solver post-processing time:      	0 	s
+                                                          	------------
+                        Total solver time:                	84 	s  ( = 0 h, 1 m, 24 s )
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:52:29   
+                        Total solver time (all cycles):      	84     	s  ( = 0 h, 1 m, 24 s )
+                        Solver initialization and clean-up:  	3      	s
+                                                             	------------
+                        Total simulation time:               	87     	s  ( = 0 h, 1 m, 27 s )
+
+                      ------------------------------------------------------------------------------
+2026-11-15 04:52:29   Time Domain: S-ParameterSolver finished at: 2026-11-15 04:52:29 +0530
+
+
+
+                      ------------------------------------------------------------------------------

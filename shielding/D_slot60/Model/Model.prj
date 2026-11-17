@@ -1,0 +1,13 @@
+{
+   "Author": "Ganga Yosritha",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Time Domain",
+   "Last Solver Type Abb": "t",
+   "Mesh Cells": "79,488",
+   "Mesh Type": "Hexahedral",
+   "Modeler Unique ID": "5:d_slot60.cst?e499f095cc30aca876389c8672455992?7058:numberofparameters=0",
+   "ProjectVersion": "'# MWS Version: Version 2026.4 - Apr 14 2026 - ACIS 35.0.0 - Learning Edition",
+   "Results": "Time Domain: S-Parameter",
+   "Version": "3"
+}

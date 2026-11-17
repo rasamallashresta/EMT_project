@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile version="20200202" creator="MatrixCalc">
+  <Components/>
+  <Materials>
+    <Material name="air_0" priority="1">
+      <Drawstyle color="0.600000024 0.600000024 0.600000024" transparency="0" linestrength="1"/>
+    </Material>
+    <Material name="$NFSMaterial$" priority="2">
+      <Drawstyle color="0 1 1" transparency="0" linestrength="1"/>
+    </Material>
+  </Materials>
+  <Groups/>
+  <SimulationDomain min="-68.1346512 -68.1346512 -68.1346512" max="68.1346512 68.1346512 68.1346512"/>
+  <MeshType type="HEX"/>
+  <HexMesh>
+    <Dimensions nx="11" ny="11" nz="11"/>
+    <MeshPlanesX values="-68.13464954545455 -54.507719636363653 -40.880789727272742 -27.253859818181837 -13.626929909090936 0 13.626929909090904 27.253859818181812 40.880789727272706 54.507719636363618 68.13464954545455"/>
+    <MeshPlanesY values="-68.13464954545455 -54.507719636363653 -40.880789727272742 -27.253859818181837 -13.626929909090936 0 13.626929909090904 27.253859818181812 40.880789727272706 54.507719636363618 68.13464954545455"/>
+    <MeshPlanesZ values="-68.13464954545455 -54.507719636363653 -40.880789727272742 -27.253859818181837 -13.626929909090936 0 13.626929909090904 27.253859818181812 40.880789727272706 54.507719636363618 68.13464954545455"/>
+    <SnappingPlanesX values="0 5 10"/>
+    <SnappingPlanesY values="0 5 10"/>
+    <SnappingPlanesZ values="0 5 10"/>
+  </HexMesh>
+  <UnitCell/>
+</MetaGeometryFile>

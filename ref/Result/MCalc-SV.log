@@ -1,0 +1,12 @@
+ParaControl_AMD64-1xN @ DESKTOP-9MO0M3L:  =================================================================
+                                          Events - Cropping Matrices
+                                          -----------------------------------------------------------------
+                                          {24152} >2026-11-15 04:54:31.00045< Event :  Started SV-cropping
+                                          {24152} >2026-11-15 04:54:31.00079< Event :  Finished SV-cropping
+                                          =================================================================
+ParaControl_AMD64-1xN @ DESKTOP-9MO0M3L:  ==============================================================================================
+                                          5421.00 ms |          | SV-crop-all | Outside MCalcResultIdentification | 25.02 MB | 0.0000 MB
+                                          5425.00 ms |  --> 3rd | SV-crop-all |                        All meshes | 25.12 MB | 0.1065 MB
+                                          5451.00 ms | --> peak | SV-crop-all |                        All meshes | 25.14 MB | 0.0123 MB
+                                          5451.00 ms |  --> 2nd | SV-crop-all | Outside MCalcResultIdentification | 25.14 MB | 0.0000 MB
+                                          ==============================================================================================
